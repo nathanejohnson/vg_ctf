@@ -11,7 +11,7 @@ Run it like so:
     git clone https://github.com/nathanejohnson/vg_ctf.git
     cd vg_ctf
     chmod 755 ./vg_ctf.js
-    ./vg_ctf.js <yournickname>
+    ./vg_ctf.js [yournickname]
 
 The nickname is optional, but it is what you will see on the leader board (assuming you make top 10).
 
